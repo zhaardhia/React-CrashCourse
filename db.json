@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Ke Pet Shop",
+      "day": "Feb 5th at 2:40pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Kemana lah",
+      "day": "Feb 9th at 9:40pm",
+      "reminder": true
+    },
+    {
+      "text": "Boker",
+      "day": "kamis",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
